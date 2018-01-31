@@ -1,0 +1,21 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "REST API for bookstore using ExpressJS and mongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "bcrypt": "*",
+    "jwt-simple": "*",
+    "morgan": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "author": "Harsh Vasudev",
+  "license": "ISC"
+}

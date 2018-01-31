@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5a70fb6eaa07887fc238a46a"},"name":"Fiction"}
+{"_id":{"$oid":"5a70fb74aa07887fc238a46b"},"name":"Non Fiction"}
+{"_id":{"$oid":"5a710583d03c6131d00a30b7"},"create_date":{"$date":"2018-01-30T23:53:39.806Z"},"name":"Romance","__v":0}
